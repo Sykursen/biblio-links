@@ -19,10 +19,13 @@ __*Documentation réseaux*__
 
 __*Pour s'entrainer*__
 - Root-Me https://www.root-me.org
+- Newbie Contest https://www.newbiecontest.org/
+- Hack the box https://www.hackthebox.eu/
 
 ---------------------------------------------------------------------------------------------------------
 
-__**Ressources**__
+__**Hacking**__
+- Bases-Hacking http://bases-hacking.org/
 
 __*Bases de données*__ 
 - Google Hacking DB https://www.exploit-db.com/google-hacking-database
@@ -32,9 +35,6 @@ __*Moteur de recherche*__
 - Shodan https://www.shodan.io
 - Tineye https://tineye.com
 - Google Advanced https://www.google.fr/advanced_search
-
-__*Resolver/DNS*__
-- Whois https://whois.domaintools.com
 
 __*Forums*__
 - Instant-Hack https://instant-hack.to
@@ -51,11 +51,16 @@ __**Hébergeurs**__
 - Hostsailor https://hostsailor.com/ Registar/VPS/Dédiés/SSL
 - Microsoft Azure https://azure.microsoft.com/fr-fr/ Registar/Cloud/VPS/Dédiés/DB/SSL
 - Vultr https://vultr.com VPS
-- DigitalOcéan https://www.digitalocean.com/ VPS
+- DigitalOcean https://www.digitalocean.com/ VPS
 
 ---------------------------------------------------------------------------------------------------------
 
-__**Virtual Private Network**__
+__**Outils**__
+
+__*Resolver/DNS*__
+- Whois https://whois.domaintools.com
+
+__*Virtual Private Network*__
 
 - NordVPN https://nordvpn.com/fr/
 - Private Internet Access (PIA) https://www.privateinternetaccess.com/
