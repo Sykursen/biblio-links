@@ -12,15 +12,19 @@ __*Formations*__
 
 __*Documentation programmation*__
 
+- Algorithmique https://openclassrooms.com/courses/decouvrez-le-fonctionnement-des-algorithmes
+
+- C https://openclassrooms.com/courses/apprenez-a-programmer-en-c
+- C++ https://openclassrooms.com/courses/programmez-avec-le-langage-c
+- C# https://openclassrooms.com/courses/apprenez-a-developper-en-c , https://openclassrooms.com/courses/programmez-en-oriente-objet-avec-c
+- Java https://openclassrooms.com/courses/apprenez-a-programmer-en-java , https://baptiste-wicht.developpez.com/tutoriels/java/debuter/
+- Python https://openclassrooms.com/courses/apprenez-a-programmer-en-python
+- PHP https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php
+- Javascript https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript
+
 __*Documentation réseaux*__
 - FrameIp http://www.frameip.com/
 - Cours Open Classroom https://openclassrooms.com/courses/apprenez-le-fonctionnement-des-reseaux-tcp-ip
-
-
-__*Pour s'entrainer*__
-- Root-Me https://www.root-me.org
-- Newbie Contest https://www.newbiecontest.org/
-- Hack the box https://www.hackthebox.eu/
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -38,6 +42,11 @@ __*Moteur de recherche*__
 
 __*Forums*__
 - Instant-Hack https://instant-hack.to
+
+__*Entrainements/Challenges/CCF*__
+- Root-Me https://www.root-me.org
+- Newbie Contest https://www.newbiecontest.org/
+- Hack the box https://www.hackthebox.eu/
 
 ---------------------------------------------------------------------------------------------------------
 
