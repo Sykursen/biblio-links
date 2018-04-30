@@ -2,13 +2,14 @@ Dernière Maj le 30/04/2018
 
 ---------------------------------------------------------------------------------------------------------
 
-__**Education**__
+## Education
 
 __*Formations*__
 - Udemy https://www.udemy.com
 - Developpez.com https://www.developpez.com
 - Open Classroom https://openclassrooms.com
 - Fun-mooc https://www.fun-mooc.fr
+- FreeCodeCamp https://www.freecodecamp.org/
 
 __*Documentation programmation*__
 
@@ -28,8 +29,7 @@ __*Documentation réseaux*__
 
 ---------------------------------------------------------------------------------------------------------
 
-__**Hacking**__
-- Bases-Hacking http://bases-hacking.org/
+## Hacking
 
 __*Bases de données*__ 
 - Google Hacking DB https://www.exploit-db.com/google-hacking-database
@@ -40,15 +40,21 @@ __*Moteur de recherche*__
 - Tineye https://tineye.com
 - Google Advanced https://www.google.fr/advanced_search
 
-__*Forums*__
+__*Tutoriels/Forums*__
 - Instant-Hack https://instant-hack.to
+- Bases-Hacking http://bases-hacking.org/
 
 __*Entrainements/Challenges/CCF*__
 - Root-Me https://www.root-me.org
 - Newbie Contest https://www.newbiecontest.org/
 - Hack the box https://www.hackthebox.eu/
 
+__*Materiel*__
+- Hak5gear https://hakshop.com/
+
 ---------------------------------------------------------------------------------------------------------
+
+## Services
 
 __**Hébergeurs**__
 
@@ -64,7 +70,7 @@ __**Hébergeurs**__
 
 ---------------------------------------------------------------------------------------------------------
 
-__**Outils**__
+## Outils
 
 __*Resolver/DNS*__
 - Whois https://whois.domaintools.com
@@ -76,9 +82,9 @@ __*Virtual Private Network*__
 
 ---------------------------------------------------------------------------------------------------------
 
-__**Astuces**__
+## Astuces
 
-__*RaspberryPi*__
+__*Ressources RaspberryPi*__
 - Raspbian-France https://raspbian-france.fr/tutoriels/ (pas mal de tutoriels et d'actus liés au Raspberry Pi sur ce site français)
 - The-Raspberry http://the-raspberry.com/guide-debutant/ (petit pack pour début sur ce site)
 - Developpez.Com https://raspberry-pi.developpez.com/cours-tutoriels/ (Tutoriels qui peuvent être un peu plus poussés)
@@ -89,5 +95,10 @@ __*RaspberryPi*__
 - Framboise314 http://www.framboise314.fr/
 
 __*Discord*__
-- Markdown Discord https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline
+- Markdown https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline
+
+__*Github*__
+- Guides https://guides.github.com/
+- Markdown https://guides.github.com/features/mastering-markdown/
+- Pages https://guides.github.com/features/pages/
 
