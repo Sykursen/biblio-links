@@ -1,4 +1,4 @@
-Dernière Maj le 30/04/2018
+Dernière Maj le 07/05/2018
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -77,7 +77,12 @@ __*Resolver/DNS*__
 
 __*Virtual Private Network*__
 
+- vpnMentor https://fr.vpnmentor.com/ (Comparateur de fournisseur VPN)
+
 - NordVPN https://nordvpn.com/fr/
+- ExpressVPN https://www.expressvpn.com/fr/
+- CyberghostVPN https://pro.cyberghostvpn.com/fr_FR/
+- VyprVPN https://www.goldenfrog.com/fr/vyprvpn
 - Private Internet Access (PIA) https://www.privateinternetaccess.com/
 
 ---------------------------------------------------------------------------------------------------------
@@ -96,9 +101,19 @@ __*Ressources RaspberryPi*__
 
 __*Discord*__
 - Markdown https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline
+- Page de statut https://status.discordapp.com/
 
 __*Github*__
 - Guides https://guides.github.com/
 - Markdown https://guides.github.com/features/mastering-markdown/
 - Pages https://guides.github.com/features/pages/
+
+__*Random*__
+- Héberger ces mails en 2018 https://www.leblogduhacker.fr/comprendre-le-rgpd-du-point-de-vue-de-linternaute/
+
+---------------------------------------------------------------------------------------------------------
+
+## Droits et vie privée
+
+- RGPD pour l'utilisateur https://www.leblogduhacker.fr/comprendre-le-rgpd-du-point-de-vue-de-linternaute/
 
