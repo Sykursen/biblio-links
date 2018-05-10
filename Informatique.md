@@ -95,6 +95,14 @@ __*Virtual Private Network*__
 - CyberghostVPN https://pro.cyberghostvpn.com/fr_FR/
 - VyprVPN https://www.goldenfrog.com/fr/vyprvpn
 - Private Internet Access (PIA) https://www.privateinternetaccess.com/
+- ProtonVPN https://protonvpn.com/
+
+__*Machine Virtuel*__
+- Virtualbox https://www.virtualbox.org/
+
+__*SandBox*__
+- CuckooSandobox https://cuckoosandbox.org/
+- Sandboxie https://www.sandboxie.com/
 
 ---------------------------------------------------------------------------------------------------------
 
