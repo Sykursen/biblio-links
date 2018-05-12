@@ -78,6 +78,7 @@ __**Hébergeurs**__
 - Hostsailor https://hostsailor.com/ Registar/VPS/Dédiés/SSL
 - Microsoft Azure https://azure.microsoft.com/fr-fr/ Registar/Cloud/VPS/Dédiés/DB/SSL
 - Vultr https://vultr.com VPS
+- Revolta-Hosting https://revolta-hosting.fr/ Registar/Web/TS/MC
 
 ---------------------------------------------------------------------------------------------------------
 
