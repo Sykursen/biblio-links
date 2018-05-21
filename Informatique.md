@@ -1,4 +1,4 @@
-Dernière Maj le 18/05/2018
+Dernière Maj le 21/05/2018
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -115,9 +115,15 @@ __*SandBox*__
 - CuckooSandobox https://cuckoosandbox.org/
 - Sandboxie https://www.sandboxie.com/
 
+__*Gif*__
+- Ezgif https://ezgif.com
+
+__*Conversion de fichier en ligne*__
+- Online-Convert https://www.online-convert.com/fr
+
 ---------------------------------------------------------------------------------------------------------
 
-## Astuces
+## Astuces Bonus
 
 __*Ressources RaspberryPi*__
 - Raspbian-France https://raspbian-france.fr/tutoriels/ (pas mal de tutoriels et d'actus liés au Raspberry Pi sur ce site français)
