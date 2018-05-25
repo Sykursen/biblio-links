@@ -152,4 +152,5 @@ __*Random*__
 ## Droits et vie privée
 
 - RGPD pour l'utilisateur https://www.leblogduhacker.fr/comprendre-le-rgpd-du-point-de-vue-de-linternaute/
+- Article sur la récupération des données personnelles https://korben.info/mydatarequest-pour-recuperer-vos-donnees-personnelles-sans-prise-de-tete.html
 
