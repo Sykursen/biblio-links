@@ -5,11 +5,11 @@ Dernière Maj le 02/06/2018
 ## Education
 
 __*Formations*__
-- [Udemy](https://www.udemy.com)
-- [Developpez.com](https://www.developpez.com)
-- [Open Classroom](https://openclassrooms.com)
-- [Fun-mooc](https://www.fun-mooc.fr)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Udemy](https://www.udemy.com) Payant
+- [Developpez.com](https://www.developpez.com) Gratuit
+- [Open Classroom](https://openclassrooms.com) Freemium
+- [Fun-mooc](https://www.fun-mooc.fr) Gratuit
+- [FreeCodeCamp](https://www.freecodecamp.org/) Gratuit
 
 __*Documentation programmation*__
 
