@@ -48,23 +48,23 @@ __*Bases de données*__
 
 __*Entrainements/Challenges/CCF*__
 - [Root-Me](https://www.root-me.org)
-- [Newbie Contest](https://www.newbiecontest.org/)
-- [Hack the box](https://www.hackthebox.eu/)
+- [Newbie Contest](https://www.newbiecontest.org)
+- [Hack the box](https://www.hackthebox.eu)
 
 __*Materiel*__
-- [Hak5gear](https://hakshop.com/)
+- [Hak5gear](https://hakshop.com)
 
 __*Moteur de recherche*__
-- [Shodan](https://www.shodan.io]
-- [Tineye](https://tineye.com]
-- [Google Advanced](https://www.google.fr/advanced_search]
+- [Shodan](https://www.shodan.io)
+- [Tineye](https://tineye.com)
+- [Google Advanced](https://www.google.fr/advanced_search)
 
 __*Tutoriels/Forums*__
-- [Instant-Hack https://instant-hack.to
-- [Bases-Hacking http://bases-hacking.org/
+- [Instant-Hack](https://instant-hack.to)
+- [Bases-Hacking](http://bases-hacking.org)
 
 __*BypassLogin*__
-- [KonBoot](http://piotrbania.com/all/kon-boot/)
+- [KonBoot](http://piotrbania.com/all/kon-boot)
 
 ---------------------------------------------------------------------------------------------------------
 
