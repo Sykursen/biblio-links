@@ -1,4 +1,4 @@
-Dernière Maj le 07/05/2018
+Dernière Maj le 02/06/2018
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -11,3 +11,9 @@ __*Photos et vidéos*__
 
 __*Jeux vidéos*__
 - Pause Process https://www.youtube.com/channel/UC0JUkXAVVA4qWH1BQRs5N3A
+
+__*Espace*__
+- Hugo Lisoir https://www.youtube.com/channel/UCDC6DBi0kRp6Jk21xqfvFLA
+
+__*Automobile*__
+- VileBrequin https://www.youtube.com/channel/UCC9mlCpyisiIpp9YA9xV-QA
