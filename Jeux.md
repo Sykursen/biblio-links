@@ -6,7 +6,9 @@ __**Mmorpg**__
 
 __**FPS**__
 - [Ironsight](https://fr.ironsight.aeriagames.com/) gratuit
-- [LawBreakers](http://lawbreakers.nexon.net/) gratuit
 
 __**TPS**__
 - [Warframe](http://lawbreakers.nexon.net/fr) gratuit
+
+__**Survie**__
+- [Rust](https://rust.facepunch.com/) payant
