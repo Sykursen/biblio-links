@@ -1,7 +1,7 @@
 Dernière maj le 12/06/2018
 
 __**Torrent**__
-- [YggTorrent](https://yggtorrent.is/)
+- [YggTorrent](https://ww1.yggtorrent.is/)
 
 __**Téléchargement direct**__
 - [Zone Téléchargement](https://1ww.zone-telechargement1.com/)
