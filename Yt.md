@@ -17,3 +17,6 @@ __*Photos et vidéos*__
 - [Olivier Schmitt](https://www.youtube.com/channel/UCqC_p9Kw9pnvLvzr701beSg)
 - [La vidéo tous simplement](https://www.youtube.com/channel/UC3qG9j4cEP_9atRd0fL45Iw)
 - [Hardisk](https://www.youtube.com/user/Hardiskblog)
+
+__*Hacking*__
+- [Ethnical | Informatique](https://www.youtube.com/user/EthnicalNightamre/videos)
