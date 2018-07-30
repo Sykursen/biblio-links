@@ -1,5 +1,3 @@
-Dernière maj le 12/06/2018
-
 __**Torrent**__
 - [YggTorrent](https://ww2.yggtorrent.is/)
 
