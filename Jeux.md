@@ -1,4 +1,3 @@
-Dernière maj le 12/06/2018
 
 __**Mmorpg**__
 - [Blade and Soul](http://www.bladeandsoul.com/fr/) gratuit
