@@ -1,5 +1,5 @@
 __**Torrent**__
-- [YggTorrent](https://ww2.yggtorrent.is/)
+- [YggTorrent](https://www.yggtorrent.is/)
 
 __**Téléchargement direct**__
 - [Zone Téléchargement](https://1ww.zone-telechargement1.com/)
