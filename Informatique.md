@@ -68,6 +68,9 @@ __*Tutoriels/Forums*__
 __*BypassLogin*__
 - [KonBoot](http://piotrbania.com/all/kon-boot)
 
+__*Youtube*__
+- [Khaos Farbauti Ibn Oblivion](https://www.youtube.com/user/brumadar/)
+
 ---------------------------------------------------------------------------------------------------------
 
 ## Services
