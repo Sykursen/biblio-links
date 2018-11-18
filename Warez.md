@@ -6,4 +6,5 @@ __**Téléchargement direct**__
 
 __**Jeux Vidéo**__
 - [CorePack](http://corepacks.com/)
+- [CrackStatus](https://crackwatch.com/) et le thread [Reddit](https://www.reddit.com/r/CrackWatch/) 
 - [FitGirl](http://fitgirl-repacks.site/)
