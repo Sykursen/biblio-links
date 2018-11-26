@@ -8,5 +8,6 @@ __**Templates**__
 - [Html5up](https://html5up.net/)
 - [Templated](https://templated.co/)
 
-__**Validateur**__
-- [Validator W3](https://validator.w3.org/)
+__**Validateusr**__
+- [Jigsaw W3 CSS](https://jigsaw.w3.org/css-validator/)
+- [Validator W3 HTML](https://validator.w3.org/)
