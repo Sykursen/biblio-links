@@ -2,7 +2,7 @@ __**Téléchargement direct**__
 - [Annuaire-Téléchargement](https://www.annuaire-telechargement.com/) Anciennement Zone-Téléchargement
 
 __**Torrent**__
-- [YggTorrent](https://www.yggtorrent.to/)
+- [YggTorrent](https://ygg.to/)
 
 __**Jeux Vidéo**__
 - [CorePack](http://corepacks.com/)
