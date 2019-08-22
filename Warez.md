@@ -2,7 +2,9 @@ __**Téléchargement direct**__
 - [Annuaire-Téléchargement](https://www.annuaire-telechargement.com/) Anciennement Zone-Téléchargement
 
 __**Torrent**__
-- [YggTorrent](https://ygg.to/) Le site change régulièrement de nom de domaine et de sous domaine.
+- [YggTorrent](https://www2.yggtorrent.ch/?attempt=1) Le site change régulièrement de nom de domaine et de sous domaine.
+- [YST (Film)](https://yst.am/)
+
 
 __**Jeux Vidéo**__
 - [CorePack](http://corepacks.com/)
