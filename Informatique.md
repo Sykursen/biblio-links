@@ -24,7 +24,7 @@ __*Documentation réseaux*__
 - [FrameIp](http://www.frameip.com/)
 
 __*Documentation Bases de données*__
-- [Sql Sh](https://sql.sh/)
+- [SQL.sh](https://sql.sh/)
 
 
 __*Moteur de jeux*__
@@ -76,7 +76,7 @@ __*Youtube*__
 __**Content Delivery Network**__
 - [Cloudflare](https://www.cloudflare.com/)
 - [KeyCDN](https://www.keycdn.com/)
-
+- [BunnyCDN](https://bunnycdn.com)
 
 __**Hébergeurs**__
 
