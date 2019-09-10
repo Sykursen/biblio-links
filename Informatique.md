@@ -74,56 +74,55 @@ __*Youtube*__
 ## Services
 
 __**Content Delivery Network**__
-- [AWS CloudFront](https://aws.amazon.com/fr/cloudfront/)
-- [Akamai](https://www.akamai.com/fr/fr/)
 - [Cloudflare](https://www.cloudflare.com/)
 - [KeyCDN](https://www.keycdn.com/)
 
+
 __**Hébergeurs**__
 
-- Alls-Heberg https://alls-heberg.fr/ Registar/VPS/DB/SSL
-- Amazon Web Services (AWS) https://aws.amazon.com/fr Registar/Cloud/VPS/Dédiés/DB/SSl
-- AlibabaCloud https://www.alibabacloud.com/ Registar/Cloud/VPS/Dédiés/DB
+- Amazon Web Services (AWS) https://aws.amazon.com/fr Multi
 - DigitalOcean https://www.digitalocean.com/ VPS
-- OVH https://www.ovh.com Registar/Cloud/VPS/Dédiés/DB/SSL
-- Gandi https://gandi.net/fr Registar/Web/SSl
-- NameCheap https://www.namecheap.com Registar/Web/SSl
+- OVH https://www.ovh.com Multi
 - Scaleway https://scaleway.com Cloud
 - Hostsailor https://hostsailor.com/ Registar/VPS/Dédiés/SSL
 - Microsoft Azure https://azure.microsoft.com/fr-fr/ Registar/Cloud/VPS/Dédiés/DB/SSL
 - Vultr https://vultr.com VPS
-- Revolta-Hosting https://revolta-hosting.fr/ Registar/Web/TS/MC
+
+- [NameCheap](https://www.namecheap.com) Registar
+- [Epik](https://www.epik.com/) Registar
+- [Gandi](https://gandi.net/fr) Registar
 
 ---------------------------------------------------------------------------------------------------------
 
 ## Outils
 
 __*Resolver/DNS*__
-- Whois https://whois.domaintools.com
+- [Whois](https://whois.domaintools.com)
+- [DNSlytics](https://dnslytics.com/)
 
 __*Virtual Private Network*__
 
-- vpnMentor https://fr.vpnmentor.com/ (Comparateur de fournisseur VPN)
+- [vpnMentor](https://fr.vpnmentor.com/) (Comparateur de fournisseur VPN)
 
-- NordVPN https://nordvpn.com/fr/
-- ExpressVPN https://www.expressvpn.com/fr/
-- CyberghostVPN https://pro.cyberghostvpn.com/fr_FR/
-- VyprVPN https://www.goldenfrog.com/fr/vyprvpn
-- Private Internet Access (PIA) https://www.privateinternetaccess.com/
-- ProtonVPN https://protonvpn.com/
+- [NordVPN](https://nordvpn.com/fr/)
+- [ExpressVPN](https://www.expressvpn.com/fr/)
+- [SurfShark](https://surfshark.com/)
+- [VyprVPN](https://www.goldenfrog.com/fr/vyprvpn)
+- [ProtonVPN](https://protonvpn.com/)
 
 __*Machine Virtuel*__
-- Virtualbox https://www.virtualbox.org/
+- [Virtualbox](https://www.virtualbox.org/)
+- [VMWare]()
 
 __*SandBox*__
-- CuckooSandobox https://cuckoosandbox.org/
-- Sandboxie https://www.sandboxie.com/
+- [CuckooSandobox](https://cuckoosandbox.org/)
+- [Sandboxie](https://www.sandboxie.com/)
 
 __*Gif*__
-- Ezgif https://ezgif.com
+- [Ezgif](https://ezgif.com)
 
 __*Conversion de fichier en ligne*__
-- Online-Convert https://www.online-convert.com/fr
+- [Online-Convert](https://www.online-convert.com/fr)
 
 ---------------------------------------------------------------------------------------------------------
 
