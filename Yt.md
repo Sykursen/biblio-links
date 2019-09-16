@@ -20,5 +20,9 @@ __*Photos et vidéos*__
 - [La vidéo tous simplement](https://www.youtube.com/channel/UC3qG9j4cEP_9atRd0fL45Iw)
 - [Hardisk](https://www.youtube.com/user/Hardiskblog)
 
+__*Informatique*__
+- [cocadmin](https://www.youtube.com/channel/UCVRJ6D343dX-x730MRP8tNw)
+- [Adrien Linuxtricks](https://www.youtube.com/channel/UCDKPGD9T00eS_l--D_DRTUQ)
+
 __*Hacking*__
 - [Ethnical | Informatique](https://www.youtube.com/user/EthnicalNightamre/videos)
