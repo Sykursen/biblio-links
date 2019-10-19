@@ -80,13 +80,12 @@ __**Content Delivery Network**__
 
 __**Hébergeurs**__
 
-- Amazon Web Services (AWS) https://aws.amazon.com/fr Multi
-- DigitalOcean https://www.digitalocean.com/ VPS
-- OVH https://www.ovh.com Multi
-- Scaleway https://scaleway.com Cloud
-- Hostsailor https://hostsailor.com/ Registar/VPS/Dédiés/SSL
-- Microsoft Azure https://azure.microsoft.com/fr-fr/ Registar/Cloud/VPS/Dédiés/DB/SSL
-- Vultr https://vultr.com VPS
+- [Amazon Web Services (AWS)](https://aws.amazon.com/fr) Multi
+- [DigitalOcean](https://www.digitalocean.com/) VPS
+- [OVH](https://www.ovh.com) Multi
+- [Scaleway](https://scaleway.com) Multi
+- [Microsoft Azure](https://azure.microsoft.com/fr-fr/) Multi
+- [Vultr](https://vultr.com) VPS
 
 - [NameCheap](https://www.namecheap.com) Registar
 - [Epik](https://www.epik.com/) Registar
