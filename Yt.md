@@ -10,6 +10,7 @@ __*Fiction*__
 - [Golden Moustache](https://www.youtube.com/user/GoldenMoustacheVideo)
 - [Studio4](https://www.youtube.com/channel/UC-1c7ebjoZoh1yTM6qL3R7g)
 - [Studio Bagel](https://www.youtube.com/user/StudioBagel)
+- [Les Parasites](https://www.youtube.com/channel/UCqS1gDNHEX3FgJ8dPfSuRoQ)
 
 __*Jeux vidéos*__
 - [Pause Process](https://www.youtube.com/channel/UC0JUkXAVVA4qWH1BQRs5N3A)
