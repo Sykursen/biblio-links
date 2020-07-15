@@ -1,6 +1,6 @@
 # biblio-links [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Ce dépot est mon index de liens personnel. N'hésiter pas à faire des suggestions si vous avez des sites à partager.
+Ce dépot est mon index de liens personnel. N'hésitez pas à faire des suggestions si vous avez des sites à partager.
 L'index est découpé en plusieurs rubriques :
 
 - [Extensions navigateur](https://github.com/Sykursen/biblio-links/blob/master/Extensions.md)
