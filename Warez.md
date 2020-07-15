@@ -1,9 +1,9 @@
 __**Téléchargement direct**__
-- [Zone-Téléchargement](https://www.zone-telechargement9.com/) Anciennement Annuaire & Zone-Téléchargement
-- [Extrem-Down](https://www.extreme-down.ninja/) Le site change régulièrement de nom de domaine et de sous domaine.
+- [Zone-Téléchargement](https://www.zt-za.com) Anciennement Annuaire & Zone-Téléchargement
+- [Extrem-Down](https://www.extreme-down.video/) Le site change régulièrement de nom de domaine et de sous domaine.
 
 __**Torrent**__
-- [YggTorrent](https://www.yggtorrent.se/) Le site change régulièrement de nom de domaine et de sous domaine.
+- [YggTorrent](https://www.yggtorrent.si/) Le site change régulièrement de nom de domaine et de sous domaine.
 - [YST (Films VO)](https://yst.am/)
 
 
